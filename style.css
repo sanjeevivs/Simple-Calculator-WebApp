@@ -33,7 +33,7 @@
    	background:gainsboro;
     	border-radius: 20px;
     	border:2px solid transparent;
-    //	background: -webkit-linear-gradient(45deg , pink , red);
+      background: -webkit-linear-gradient(45deg , pink , red);
     }
     hr{
     	margin:0;
@@ -60,7 +60,7 @@
     }
     #zero{
     	width:22.22%;
-  // margin-right:2px;
+      margin-right:2px;
     }
     #equal{
     	width:94%;
